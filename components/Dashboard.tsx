@@ -6,7 +6,7 @@ import { Feed } from './features/Feed';
 import { Friends } from './features/Friends';
 import { Chat } from './features/Chat';
 import { Hangouts } from './features/Hangouts';
-import { Notifications } from './features/Notifications';
+import { Notifications } from './features/Notification';
 import { Profile } from './features/Profile';
 import { Map } from './features/Map';
 
